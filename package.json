@@ -1,0 +1,19 @@
+{
+  "name": "ng2-bookshelf-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "firebase-admin": "^4.1.1",
+    "mongoose": "^4.8.4",
+    "multer": "^1.3.0"
+  }
+}
